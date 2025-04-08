@@ -7,18 +7,6 @@ print(dataframe)
 
 print('----------------------------------------------')
 
-# Grapping the first 5 rows
-print('5 FIRST ROWS:\n')
-print(dataframe.head(5))
-
-print('----------------------------------------------')
-
-# Grapping the last 5 rows
-print('5 LAST ROWS:\n')
-print(dataframe.tail(5))
-
-print('----------------------------------------------')
-
 # Getting info about the dataframe
 print('DATAFRAME INFO:\n')
 print(dataframe.info())
