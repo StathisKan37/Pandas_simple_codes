@@ -1,16 +1,25 @@
-Brand,Model,Engine Size,Cylinders,Release Year
-Toyota,Corolla,1.8,4,2022
-Honda,Civic,2.0,4,2021
-Ford,Mustang,5.0,8,2023
-Chevrolet,Malibu,1.5,4,2020
-BMW,330i,2.0,4,2022
-Audi,A4,2.0,4,2023
-Mercedes-Benz,C300,2.0,4,2023
-Subaru,Impreza,2.0,4,2021
-Mazda,MX-5 Miata,2.0,4,2022
-Dodge,Charger,3.6,6,2023
-Volkswagen,Golf GTI,2.0,4,2022
-Hyundai,Elantra,2.0,4,2021
-Nissan,Altima,2.5,4,2023
-Kia,Stinger,3.3,6,2022
-Lexus,IS 350,3.5,6,2022
+Brand,Model,Color,Engine Size,Cylinders,Release Year
+Toyota,Corolla,White,1.8,4,2022
+Honda,Civic,White,2.0,4,2021
+Ford,Mustang,Red,5.0,8,2023
+Chevrolet,Malibu,Blue,1.5,4,2020
+BMW,330i,White,2.0,4,2022
+Audi,A4,Black,2.0,4,2023
+Mercedes-Benz,C300,Black,2.0,4,2023
+Subaru,Impreza,Blue,2.0,4,2021
+Mazda,MX-5 Miata,Red,2.0,4,2022
+Dodge,Charger,White,3.6,6,2023
+Volkswagen,Golf GTI,Blue,2.0,4,2022
+Hyundai,Elantra,Blue,2.0,4,2021
+Nissan,Altima,White,2.5,4,2023
+Kia,Stinger,Red,3.3,6,2022
+Lexus,IS 350,White,3.5,6,2022
+Jeep,Wrangler,Black,3.6,6,2023
+Porsche,911 Carrera,Blue,3.0,6,2022
+Ferrari,Portofino,Red,3.9,8,2021
+Lamborghini,Huracan,White,5.2,10,2022
+Mitsubishi,Outlander,Black,2.5,4,2023
+Peugeot,308,Black,1.2,3,2021
+Volvo,S60,Black,2.0,4,2023
+Cadillac,CT5,Blue,2.0,4,2022
+Alfa Romeo,Giulia,Red,2.0,4,2023
